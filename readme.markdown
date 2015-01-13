@@ -1,3 +1,5 @@
+# browserify的转换规则其实是基于browser-pack/prelude.js的，了解browserify的工作原理最好看下prelude.js的源码，[一篇很好的介绍browserify工作原理的文章](http://benclinkinbeard.com/posts/how-browserify-works/)
+
 # browser-pack
 
 pack node-style source files from a json stream into a browser bundle
